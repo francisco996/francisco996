@@ -1,16 +1,15 @@
-## Hi there 👋
+### Bem vindo ao meu perfil
 
-<!--
-**francisco996/francisco996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Meu nome e Francisco
 
-Here are some ideas to get you started:
+-Estou estudando[alura](alura.gov.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou estudando na liguagem javascript
+
+-Ultilizo esse espaço para minha organização e compartilhamento de meus projetos desenvolvidos
+
+### Entrem em contato com comigo📬
+
+00001128093406sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/mCiM7CmGGI4AAAAC/naruto.gif)
